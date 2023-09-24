@@ -19,7 +19,7 @@
 
 1. Клонируйте этот репозиторий на ваш компьютер.
    ```sh
-   git clone <url-репозитория>
+   git clone [<url-репозитория>](https://github.com/V1LLYA/itogovayarabota.git)
 2. Перейдите в папку проекта.
    ```sh
    cd <папка-проекта>
